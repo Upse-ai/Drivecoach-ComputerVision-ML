@@ -4,6 +4,10 @@ A modular AI pipeline that combines object detection and language generation to 
 
 Built as a group project for **AI508 & AI509** at SDU (Southern University of Denmark).
 
+## Example
+
+https://github.com/Upse-ai/Drivecoach-ComputerVision-ML/blob/main/annotated_example.mp4
+
 ---
 
 ## How It Works
